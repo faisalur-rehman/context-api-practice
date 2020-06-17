@@ -1,0 +1,17 @@
+html,
+body,
+#root,
+.App,
+.parent,
+.main {
+  height: 100%;
+  margin: 0;
+}
+.dark {
+  color: white;
+  background-color: rgb(53, 51, 51);
+}
+.light {
+  color: black;
+  background-color: rgb(232, 232, 236);
+}
